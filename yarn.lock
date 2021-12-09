@@ -5523,14 +5523,6 @@ hosted-git-info@^2.1.4:
   resolved "https://registry.nlark.com/hosted-git-info/download/hosted-git-info-2.8.9.tgz?cache=0&sync_timestamp=1629094105601&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fhosted-git-info%2Fdownload%2Fhosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
   integrity sha1-3/wL+aIcAiCQkPKqaUKeFBTa8/k=
 
-<<<<<<< HEAD
-hotkeys-js@3.8.7, hotkeys-js@^3.8.1, hotkeys-js@^3.8.7:
-  version "3.8.7"
-  resolved "https://registry.nlark.com/hotkeys-js/download/hotkeys-js-3.8.7.tgz#c16cab978b53d7242f860ca3932e976b92399981"
-  integrity sha1-wWyrl4tT1yQvhgyjky6Xa5I5mYE=
-
-=======
->>>>>>> 961a332... Initialize project using Create React App
 hpack.js@^2.1.6:
   version "2.1.6"
   resolved "https://registry.npm.taobao.org/hpack.js/download/hpack.js-2.1.6.tgz#87774c0949e513f42e84575b3c45681fade2a0b2"
@@ -8919,11 +8911,7 @@ prompts@^2.0.1:
     kleur "^3.0.3"
     sisteransi "^1.0.5"
 
-<<<<<<< HEAD
-prop-types@^15.6.1, prop-types@^15.7.2:
-=======
 prop-types@^15.7.2:
->>>>>>> 961a332... Initialize project using Create React App
   version "15.7.2"
   resolved "https://registry.nlark.com/prop-types/download/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
   integrity sha1-UsQedbjIfnK52TYOAga5ncv/psU=
@@ -9138,31 +9126,6 @@ react-error-overlay@^6.0.9:
   resolved "https://registry.npmmirror.com/react-error-overlay/download/react-error-overlay-6.0.9.tgz#3c743010c9359608c375ecd6bc76f35d93995b0a"
   integrity sha1-PHQwEMk1lgjDdezWvHbzXZOZWwo=
 
-<<<<<<< HEAD
-react-hot-keys@^2.7.1:
-  version "2.7.1"
-  resolved "https://registry.nlark.com/react-hot-keys/download/react-hot-keys-2.7.1.tgz#a811445e66551c9f5b0e6b130d12096a59688539"
-  integrity sha1-qBFEXmZVHJ9bDmsTDRIJallohTk=
-  dependencies:
-    hotkeys-js "^3.8.1"
-    prop-types "^15.7.2"
-
-react-hotkeys-hook@^3.4.4:
-  version "3.4.4"
-  resolved "https://registry.npmmirror.com/react-hotkeys-hook/download/react-hotkeys-hook-3.4.4.tgz?cache=0&sync_timestamp=1634543762160&other_urls=https%3A%2F%2Fregistry.npmmirror.com%2Freact-hotkeys-hook%2Fdownload%2Freact-hotkeys-hook-3.4.4.tgz#52ba5d8ef5e47cc2e776c70a9036d518e0993d51"
-  integrity sha1-UrpdjvXkfMLndscKkDbVGOCZPVE=
-  dependencies:
-    hotkeys-js "3.8.7"
-
-react-hotkeys@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.npm.taobao.org/react-hotkeys/download/react-hotkeys-2.0.0.tgz#a7719c7340cbba888b0e9184f806a9ec0ac2c53f"
-  integrity sha1-p3Gcc0DLuoiLDpGE+Aap7ArCxT8=
-  dependencies:
-    prop-types "^15.6.1"
-
-=======
->>>>>>> 961a332... Initialize project using Create React App
 react-is@^16.8.1:
   version "16.13.1"
   resolved "https://registry.npmmirror.com/react-is/download/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
