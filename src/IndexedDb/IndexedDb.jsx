@@ -2,7 +2,7 @@ import { default as React, useState } from 'react'
 export const IndexedDb = () => {
   const [state] = useState([1, 2, 3, 4, 5, 6, 7, 8])
   const [currentCount, setCurrentCount] = useState(1)
-
+  console.log(state)
   // useEffect(() => {
   //   hotkeys('left,right', function (event, handler) {
   //     switch (handler.key) {
