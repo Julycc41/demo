@@ -1,0 +1,1 @@
+export {IndexedDb as default} from './IndexedDb'
